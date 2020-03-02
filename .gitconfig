@@ -1,3 +1,5 @@
+[rebase]
+	missingCommitsCheck = error
 [user]
 	name = Alex Wang
 	useConfigOnly = true
