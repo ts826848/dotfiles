@@ -1,4 +1,8 @@
 call plug#begin('~/.vim/plugged/')
 call plug#end()
 
+if has('nvim')
+else
+endif
+
 set colorcolumn=+1
