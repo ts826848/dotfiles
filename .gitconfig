@@ -1,6 +1,7 @@
 [merge]
 	conflictStyle = diff3
 [rebase]
+	autoSquash = true
 	missingCommitsCheck = error
 [user]
 	name = Alex Wang
