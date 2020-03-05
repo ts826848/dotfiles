@@ -12,3 +12,4 @@ if has('persistent_undo')
 	set undofile
 	set undodir=~/.vim/undodir/
 endif
+set undolevels=2147483647
