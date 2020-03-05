@@ -7,3 +7,8 @@ else
 endif
 
 set colorcolumn=+1
+
+if has('persistent_undo')
+	set undofile
+	set undodir=~/.vim/undodir/
+endif
