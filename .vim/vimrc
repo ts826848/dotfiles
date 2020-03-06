@@ -7,6 +7,7 @@ else
 endif
 
 set colorcolumn=+1
+set textwidth=80
 
 if has('persistent_undo')
 	set undofile
