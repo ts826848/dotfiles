@@ -16,6 +16,8 @@
 	<string>A824ECF5-FE1E-4B81-A641-BC7639193E2C</string>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
+	<key>LoadPrefsFromCustomFolder</key>
+	<true/>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -1310,6 +1312,8 @@
 	<integer>0</integer>
 	<key>NoSyncTipOfTheDayEligibilityBeganTime</key>
 	<real>605318509.330809</real>
+	<key>PrefsCustomFolder</key>
+	<string>/Users/awang/.config</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
