@@ -14,8 +14,16 @@
 	<string>manual</string>
 	<key>Default Bookmark Guid</key>
 	<string>A824ECF5-FE1E-4B81-A641-BC7639193E2C</string>
+	<key>Hotkey</key>
+	<true/>
+	<key>HotkeyChar</key>
+	<integer>32</integer>
+	<key>HotkeyCode</key>
+	<integer>49</integer>
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
+	<key>HotkeyModifiers</key>
+	<integer>1179914</integer>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSQuotedKeystrokeBinding</key>
