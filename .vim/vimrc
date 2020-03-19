@@ -16,3 +16,8 @@ if has('persistent_undo')
 	set undodir=~/.vim/undodir/
 endif
 set undolevels=2147483647
+
+autocmd BufReadPost *
+	\ if line("'\"") >= 1 && line("'\"") <= line("$") && &ft !~# 'commit'
+	\ |   exe "normal! g`\""
+	\ | endif
